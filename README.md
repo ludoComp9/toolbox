@@ -31,6 +31,7 @@ Time duration: 186.08 ms
 ```
 
 ** Check URL defined in a CSV file and save results to an output file **
+
 `url.txt` CSV file contains:
 ```plaintext
 https://www.example.com
